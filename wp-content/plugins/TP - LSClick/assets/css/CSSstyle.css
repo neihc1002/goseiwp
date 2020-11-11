@@ -1,0 +1,21 @@
+.trp-language-switcher .trp-ls-shortcode-current-language.trp-ls-clicked{
+    visibility: hidden;
+}
+
+.trp-language-switcher:hover div.trp-ls-shortcode-current-language{
+    visibility: visible;
+}
+
+.trp-language-switcher:hover div.trp-ls-shortcode-language{
+    visibility: hidden;
+    height: 1px;
+}
+.trp-language-switcher .trp-ls-shortcode-language.trp-ls-clicked,
+.trp-language-switcher:hover .trp-ls-shortcode-language.trp-ls-clicked{
+    visibility:visible;
+    height:auto;
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: inline-block !important;
+}

@@ -1,0 +1,802 @@
+# Copyright (C) 2020 Masker for Elementor
+# This file is distributed under the same license as the Masker for Elementor package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Masker for Elementor\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: wp-content/plugins/masker-elementor/masker-elementor.php:455, wp-content/plugins/masker-elementor/uninstall.php:148, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/EnvatoItem.php:144, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Helper.php:263, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:449, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginHelper.php:202, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginUpdater.php:390, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:467, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:354, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/StatusTab.php:211, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/UI.php:372, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/UninstallTab.php:147, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/WordPressReporter.php:389
+msgid "The whole idea of the singleton design pattern is that there is a single object therefore, we don't want the object to be cloned."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/masker-elementor.php:470, wp-content/plugins/masker-elementor/uninstall.php:163, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/EnvatoItem.php:159, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Helper.php:278, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:464, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginHelper.php:220, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginUpdater.php:405, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:482, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:369, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/StatusTab.php:226, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/UI.php:389, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/UninstallTab.php:162, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/WordPressReporter.php:404
+msgid "The whole idea of the singleton design pattern is that there is a single object therefore, we don't want the object to be unserialized."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:86
+msgid "CodeCanyon License"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:96
+msgid "Not Activated"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:91
+msgid "Activated"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:331
+msgid "Plugin Activation"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:337
+msgid "CodeCanyon purchase code"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:338
+msgid "Enter your CodeCanyon purchase code. Allowed only one Purchase Code per website."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:367
+msgid "Activation FAQ'S"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:371
+msgid "Where is my Purchase Code?"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:374
+msgid "The purchase code is a unique combination of characters that confirms that you bought the plugin. You can find your purchase code in "
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:375
+msgid "your account"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:376
+msgid " on the CodeCanyon. Learn more about "
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:377
+msgid "How to find your purchase code"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:378, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:412
+msgid " ."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:384
+msgid "Can I use one Purchase Code on multiple sites?"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:388
+msgid "No, this is prohibited by license terms. You can use the purchase code on only one website at a time. Learn more about "
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:389
+msgid "Envato License"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:390
+msgid " terms. "
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:396
+msgid "What are the benefits of plugin activation?"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:400
+msgid "Activation of the plugin allows you to use all the functionality of the plugin on your site. In addition, in some cases, activating the plugin allows you to access additional features and capabilities of the plugin. Also, using an authored version of the plugin, you can be sure that you will not violate the license."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:406
+msgid "What should I do if my Purchase Code does not work?"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:410
+msgid "There are several reasons why the purchase code may not work on your site. Learn more why your "
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginActivation.php:411
+msgid "Purchase Code is Not Working"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginHelper.php:124, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginHelper.php:124
+msgid "Settings"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginHelper.php:125, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginHelper.php:125, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:155
+msgid "Documentation"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginHelper.php:126, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginHelper.php:126
+msgid "Plugins"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginHelper.php:147
+msgid "Rate this plugin:"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginUpdater.php:352
+msgid "Please visit the plugin page on the Envato market to "
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginUpdater.php:354
+msgid "download "
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/PluginUpdater.php:356
+msgid "the latest version."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:74
+msgid "Operating System"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:75
+msgid "Software"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:76
+msgid "MySQL version"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:77
+msgid "PHP Version"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:78
+msgid "Write Permissions"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:79
+msgid "ZIP Installed"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:80
+msgid "cURL Installed"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:82
+msgid "Elementor Installed"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:172
+msgid "We recommend to use php 5.6 or higher"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:224
+msgid "You must enable CURL (Client URL Library) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:247
+msgid "You need install and activate Elementor builder. Go to Elementor site (elementor.com) for details."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:272
+msgid "You must enable DOM extension (Document Object Model) in PHP. It's used for HTML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:297
+msgid "You must enable XML extension in PHP. It's used for XML processing. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:322
+msgid "You must enable BCMath extension (Arbitrary Precision Mathematics) in PHP. Contact the support service of your hosting provider. They know what to do."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:367
+msgid "WordPress root directory"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:375
+msgid "WordPress root uploads directory"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:381
+msgid ".htaccess file"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:396
+msgid "All right"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/ServerReporter.php:392
+msgid "There are some writing permissions issues with the following directories/files:"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:74
+msgid "Status"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:82
+msgid "Activation"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:88
+msgid "Uninstall"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:101
+msgid "MaskerElementor"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:104, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:78
+msgid "Masker"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:107
+msgid "ver."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:112
+msgid "Save changes"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:118
+msgid "Plugin settings"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:151
+msgid "Helpful links"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:161
+msgid "Get help"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:165
+msgid "Rate this plugin"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:171
+msgid "More plugins"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:225
+msgid "Masker for Elementor Settings"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:226
+msgid "Masker for Elementor"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:275
+msgid "Uninstall Settings"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:270
+msgid "System Requirements"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:301
+msgid "Settings saved!"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:317
+msgid "Invalid purchase code."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Settings.php:312
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/StatusTab.php:177
+msgid "Some data will be sent to our server to verify purchase and to ensure that a plugin is compatible with your install. We will never collect any confidential data. All data is stored anonymously."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/UninstallTab.php:77
+msgid "Removal settings:"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/UninstallTab.php:100
+msgid "Delete plugin only"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/UninstallTab.php:101
+msgid "Delete plugin and settings"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/UninstallTab.php:105
+msgid "Choose which data to delete upon using the \"Delete\" action in the \"Plugins\" admin page."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/UninstallTab.php:111
+msgid "Delete plugin"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/WordPressReporter.php:74
+msgid "Version"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/WordPressReporter.php:75
+msgid "Site URL"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/WordPressReporter.php:76
+msgid "Home URL"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/WordPressReporter.php:77
+msgid "WP Multisite"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/WordPressReporter.php:78
+msgid "Max Upload Size"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/WordPressReporter.php:79
+msgid "Memory limit"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/WordPressReporter.php:80
+msgid "Permalink Structure"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/WordPressReporter.php:81
+msgid "Language"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/WordPressReporter.php:82
+msgid "Timezone"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/WordPressReporter.php:83
+msgid "Admin Email"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/WordPressReporter.php:84
+msgid "Debug Mode"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/WordPressReporter.php:149
+msgid "We recommend setting memory to at least 64M. For more information, ask your hosting provider."
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/WordPressReporter.php:252
+msgid "Plain"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:137, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:822, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:904
+msgid "Image"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:146
+msgid "Source"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:150
+msgid "Media library"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:151, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:834
+msgid "URL"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:160
+msgid "Maintain aspect ratio"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:162
+msgid "On"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:163
+msgid "Off"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:173
+msgid "Image URL"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:176
+msgid "Paste your image link here"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:189
+msgid "Choose Image"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:207
+msgid "Image Position"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:211, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:288, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:307, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:328, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:457, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:552
+msgid "Default"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:212, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:458
+msgid "Center Center"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:213, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:459
+msgid "Center Left"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:214, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:460
+msgid "Center Right"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:215, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:461
+msgid "Top Center"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:216, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:462
+msgid "Top Left"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:217, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:463
+msgid "Top Right"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:218, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:464
+msgid "Bottom Center"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:219, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:465
+msgid "Bottom Left"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:220, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:466
+msgid "Bottom Right"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:221, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:331, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:423, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:467, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:555
+msgid "Custom"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:234, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:479
+msgid "Horizontal Offset"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:259, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:504
+msgid "Vertical Offset"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:284
+msgid "Image Attachment"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:289
+msgid "Scroll"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:290
+msgid "Fixed"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:303
+msgid "Image Repeat"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:308, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:533
+msgid "No-repeat"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:309, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:534
+msgid "Repeat"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:310, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:535
+msgid "Repeat-x"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:311, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:536
+msgid "Repeat-y"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:324
+msgid "Image Size"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:329, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:553
+msgid "Cover"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:330, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:554
+msgid "Contain"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:344, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:567
+msgid "Custom Size"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:379, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1011
+msgid "Clipping Mask"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:388
+msgid "Mask"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:392
+msgid "Bubbles-1"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:393
+msgid "Bubbles-2"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:394
+msgid "Bubbles-3"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:395
+msgid "Bubbles-4"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:396
+msgid "Liquid-1"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:397
+msgid "Liquid-2"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:398
+msgid "Liquid-3"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:399
+msgid "Liquid-4"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:400
+msgid "Balloon-1"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:401
+msgid "Balloon-2"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:402
+msgid "Balloon-3"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:403
+msgid "Balloon-4"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:404
+msgid "Balloon-5"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:405
+msgid "Balloon-6"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:406
+msgid "Balloon-7"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:407
+msgid "Watercolor-1"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:408
+msgid "Watercolor-2"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:409
+msgid "Watercolor-3"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:410
+msgid "Watercolor-4"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:411
+msgid "Triangles-1"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:412
+msgid "Triangles-2"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:413
+msgid "Triangles-3"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:414
+msgid "Brush-1"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:415
+msgid "Brush-2"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:416
+msgid "Brush-3"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:417
+msgid "Brush-4"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:418
+msgid "Hexagon-1"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:419
+msgid "Arabic-square"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:420
+msgid "Arabic-rhombus"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:421
+msgid "Arabic-ellipse"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:422
+msgid "Seal"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:435
+msgid "Choose Mask"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:436
+msgid "SVG Image Only"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:453
+msgid "Mask Position"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:529
+msgid "Mask Repeat"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:548
+msgid "Mask Size"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:602
+msgid "Caption"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:610, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:620, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:625, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:626, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:673, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1072
+msgid "Header"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:635
+msgid "Header Position"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:651, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:780
+msgid "HTML Tag"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:675, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:728, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:798, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:847
+msgid "Show"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:676, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:729, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:799, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:848
+msgid "Hide"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:685, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:696, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:701, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:702, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:726, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1190
+msgid "Subheader"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:711
+msgid "Subheader Position"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:738, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:749, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:754, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:755, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:796, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1282
+msgid "Description"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:764
+msgid "Description Position"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:767
+msgid "Top"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:768
+msgid "Over"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:769
+msgid "Bottom"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:808
+msgid "Link"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:819
+msgid "Link Position"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:823
+msgid "Box"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:836
+msgid "https://codecanyon.net/user/merkulove"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:845
+msgid "Enable link"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:857
+msgid "Justify Content"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:858
+msgid "Only for \"Over\" position"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:913, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1019, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1082, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1201, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1292
+msgid "Margin"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:927, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1033, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1097, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1217, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1307
+msgid "Padding"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:942
+msgid "Width"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:959
+msgid "Height"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:985
+msgid "Background color"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1047
+msgid "Rotation"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1113, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1234, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1323
+msgid "Color"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1131, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1253, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1341
+msgid "Typography"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1142, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1265, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1352
+msgid "Shadow"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1152, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1362
+msgid "Background"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1162, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1372
+msgid "Alignment"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1166, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1376
+msgid "Left"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1170, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1380
+msgid "Center"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1174, wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1384
+msgid "Right"
+msgstr ""
+
+#: wp-content/plugins/masker-elementor/src/Merkulove/MaskerElementor/Elementor/widgets/01_Masker/01_masker.elementor.php:1388
+msgid "Justify"
+msgstr ""

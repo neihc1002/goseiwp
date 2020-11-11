@@ -1,0 +1,41 @@
+/**
+ * Masker masks your images by creative & extra-ordinary custom shapes.
+ * Exclusively on Envato Market: https://1.envato.market/maskerelementor
+ *
+ * @encoding        UTF-8
+ * @version         1.0.0
+ * @copyright       Copyright (C) 2018 - 2020 Merkulove ( https://merkulov.design/ ). All rights reserved.
+ * @license         Envato License https://1.envato.market/KYbje
+ * @contributors    Dmitry Merkulov (dmitry@merkulov.design)
+ * @support         help@merkulov.design
+ **/
+.mdp-masker {
+  position: relative; }
+
+.mdp-masker-header,
+.mdp-masker-subheader {
+  display: block; }
+
+.mdp-masker-image,
+.mdp-masker-mask {
+  transform-origin: center; }
+
+.mdp-masker-link {
+  position: absolute;
+  z-index: 999;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0; }
+
+.mdp-masker-over {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column; }
+  .mdp-masker-over .mdp-masker-heading,
+  .mdp-masker-over .mdp-masker-description {
+    width: 100%; }

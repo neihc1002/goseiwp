@@ -1,0 +1,98 @@
+[2020-11-03 15:20:56 : INFO] - Re_Smush_It_Task server status: Online 
+[2020-11-03 15:21:04 : INFO] - 
+ 
+[2020-11-03 15:21:04 : INFO] - Header for logs at time:  Tue, 03 Nov 2020 15:21:04 +0700 on https://gosei.com.vn 
+[2020-11-03 15:21:04 : INFO] - WP: 5.5.1 
+[2020-11-03 15:21:04 : INFO] - PHP: 7.1.29 (cgi-fcgi, Windows NT WIN-1G1ALC7RCEM 10.0 build 14393 (Windows Server 2016) i586) 
+[2020-11-03 15:21:04 : INFO] - MySQL: 5.1.73 
+[2020-11-03 15:21:04 : INFO] - WPLANG: en_US 
+[2020-11-03 15:21:05 : INFO] - Server: Microsoft-IIS/10.0 
+[2020-11-03 15:21:05 : INFO] - Outbound connections: N 
+[2020-11-03 15:21:05 : INFO] - safe_mode: 0 
+[2020-11-03 15:21:05 : INFO] - max_execution_time: 300 
+[2020-11-03 15:21:05 : INFO] - memory_limit: 128M (used: 70.6M | 4M) 
+[2020-11-03 15:21:05 : INFO] - multisite: N 
+[2020-11-03 15:21:05 : INFO] - openssl: OpenSSL 1.0.2r  26 Feb 2019 
+[2020-11-03 15:21:05 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-11-03 15:21:05 : INFO] - Set semaphore last lock (smush) time to 2020-11-03 08:21:05 
+[2020-11-03 15:21:05 : INFO] - Semaphore lock (smush) complete 
+[2020-11-03 15:21:05 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2020-11-03 15:21:05 : INFO] - Task with ID 1 and type (smush) failed with error code invalid_file_type - C:\inetpub\vhost\gosei/wp-content/uploads/2020/10/abc.svg - cannot be optimized, it has an invalid file type 
+[2020-11-03 15:21:05 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2020-11-03 15:21:05 : INFO] - Re_Smush_It_Task - Attachment ID : 1256, Started on : November 03, 2020 03:21:05 
+[2020-11-03 15:21:05 : INFO] - 100 
+[2020-11-03 15:21:10 : INFO] - Backing up the original image - 2020/10/Artboard-1-11-updraft-pre-smush-original.png 
+[2020-11-03 15:21:10 : INFO] - Re_Smush_It_Task - Attachment ID : 1256, Started on : November 03, 2020 03:21:05 
+[2020-11-03 15:21:10 : INFO] - 100 
+[2020-11-03 15:21:13 : INFO] - Re_Smush_It_Task - Attachment ID : 1256, Started on : November 03, 2020 03:21:05 
+[2020-11-03 15:21:13 : INFO] - 100 
+[2020-11-03 15:21:18 : INFO] - Re_Smush_It_Task - Attachment ID : 1256, Started on : November 03, 2020 03:21:05 
+[2020-11-03 15:21:18 : INFO] - 100 
+[2020-11-03 15:21:20 : INFO] - Re_Smush_It_Task - Attachment ID : 1256, Started on : November 03, 2020 03:21:05 
+[2020-11-03 15:21:20 : INFO] - 100 
+[2020-11-03 15:21:25 : INFO] - Re_Smush_It_Task - Attachment ID : 1256, Started on : November 03, 2020 03:21:05 
+[2020-11-03 15:21:25 : INFO] - 100 
+[2020-11-03 15:21:26 : INFO] - Re_Smush_It_Task - Attachment ID : 1256, Started on : November 03, 2020 03:21:05 
+[2020-11-03 15:21:26 : INFO] - 100 
+[2020-11-03 15:21:31 : INFO] - Successfully optimized the image - C:\inetpub\vhost\gosei/wp-content/uploads/2020/10/Artboard-1-11.png.The file was compressed from 653.67 KB to 154.33 KB saving 76.39 percent using WP-Optimize 
+[2020-11-03 15:21:31 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2020-11-03 15:21:31 : INFO] - Set semaphore last lock (smush) time to 2020-11-03 08:21:31 
+[2020-11-03 15:21:31 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-11-03 15:21:31 : INFO] - Semaphore (smush) unlocked 
+[2020-11-03 15:21:31 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-11-03 15:21:31 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-11-03 15:21:31 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2020-11-03 15:32:17 : INFO] - Re_Smush_It_Task server status: Online 
+[2020-11-03 15:32:24 : INFO] - 
+ 
+[2020-11-03 15:32:24 : INFO] - Header for logs at time:  Tue, 03 Nov 2020 15:32:24 +0700 on https://gosei.com.vn 
+[2020-11-03 15:32:24 : INFO] - WP: 5.5.1 
+[2020-11-03 15:32:24 : INFO] - PHP: 7.1.29 (cgi-fcgi, Windows NT WIN-1G1ALC7RCEM 10.0 build 14393 (Windows Server 2016) i586) 
+[2020-11-03 15:32:24 : INFO] - MySQL: 5.1.73 
+[2020-11-03 15:32:24 : INFO] - WPLANG: en_US 
+[2020-11-03 15:32:24 : INFO] - Server: Microsoft-IIS/10.0 
+[2020-11-03 15:32:24 : INFO] - Outbound connections: N 
+[2020-11-03 15:32:24 : INFO] - safe_mode: 0 
+[2020-11-03 15:32:24 : INFO] - max_execution_time: 300 
+[2020-11-03 15:32:24 : INFO] - memory_limit: 128M (used: 70.9M | 4M) 
+[2020-11-03 15:32:24 : INFO] - multisite: N 
+[2020-11-03 15:32:24 : INFO] - openssl: OpenSSL 1.0.2r  26 Feb 2019 
+[2020-11-03 15:32:24 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2020-11-03 15:32:24 : INFO] - Set semaphore last lock (smush) time to 2020-11-03 08:32:24 
+[2020-11-03 15:32:24 : INFO] - Semaphore lock (smush) complete 
+[2020-11-03 15:32:24 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2020-11-03 15:32:24 : INFO] - Re_Smush_It_Task - Attachment ID : 1263, Started on : November 03, 2020 03:32:24 
+[2020-11-03 15:32:24 : INFO] - 100 
+[2020-11-03 15:32:29 : INFO] - Backing up the original image - 2020/10/13116061_1046145078793083_6135836482764878552_o-1-updraft-pre-smush-original.png 
+[2020-11-03 15:32:29 : INFO] - Re_Smush_It_Task - Attachment ID : 1263, Started on : November 03, 2020 03:32:24 
+[2020-11-03 15:32:29 : INFO] - 100 
+[2020-11-03 15:32:32 : INFO] - Re_Smush_It_Task - Attachment ID : 1263, Started on : November 03, 2020 03:32:24 
+[2020-11-03 15:32:32 : INFO] - 100 
+[2020-11-03 15:32:35 : INFO] - Re_Smush_It_Task - Attachment ID : 1263, Started on : November 03, 2020 03:32:24 
+[2020-11-03 15:32:35 : INFO] - 100 
+[2020-11-03 15:32:36 : INFO] - Successfully optimized the image - C:\inetpub\vhost\gosei/wp-content/uploads/2020/10/13116061_1046145078793083_6135836482764878552_o-1.png.The file was compressed from 534.89 KB to 186.33 KB saving 65.16 percent using WP-Optimize 
+[2020-11-03 15:32:36 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2020-11-03 15:32:36 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2020-11-03 15:32:36 : INFO] - Re_Smush_It_Task - Attachment ID : 992, Started on : November 03, 2020 03:32:24 
+[2020-11-03 15:32:36 : INFO] - 100 
+[2020-11-03 15:32:38 : INFO] - Backing up the original image - 2020/10/Artboard-9-updraft-pre-smush-original.png 
+[2020-11-03 15:32:38 : INFO] - Re_Smush_It_Task - Attachment ID : 992, Started on : November 03, 2020 03:32:24 
+[2020-11-03 15:32:38 : INFO] - 100 
+[2020-11-03 15:32:41 : INFO] - Re_Smush_It_Task - Attachment ID : 992, Started on : November 03, 2020 03:32:24 
+[2020-11-03 15:32:41 : INFO] - 100 
+[2020-11-03 15:32:44 : INFO] - Re_Smush_It_Task - Attachment ID : 992, Started on : November 03, 2020 03:32:24 
+[2020-11-03 15:32:44 : INFO] - 100 
+[2020-11-03 15:32:46 : INFO] - Re_Smush_It_Task - Attachment ID : 992, Started on : November 03, 2020 03:32:24 
+[2020-11-03 15:32:46 : INFO] - 100 
+[2020-11-03 15:32:48 : INFO] - Re_Smush_It_Task - Attachment ID : 992, Started on : November 03, 2020 03:32:24 
+[2020-11-03 15:32:48 : INFO] - 100 
+[2020-11-03 15:32:50 : INFO] - Re_Smush_It_Task - Attachment ID : 992, Started on : November 03, 2020 03:32:24 
+[2020-11-03 15:32:50 : INFO] - 100 
+[2020-11-03 15:32:53 : INFO] - Successfully optimized the image - C:\inetpub\vhost\gosei/wp-content/uploads/2020/10/Artboard-9.png.The file was compressed from 13.43 KB to 6.95 KB saving 48.28 percent using WP-Optimize 
+[2020-11-03 15:32:53 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2020-11-03 15:32:53 : INFO] - Set semaphore last lock (smush) time to 2020-11-03 08:32:53 
+[2020-11-03 15:32:53 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-11-03 15:32:53 : INFO] - Semaphore (smush) unlocked 
+[2020-11-03 15:32:53 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2020-11-03 15:32:53 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-11-03 15:32:53 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 

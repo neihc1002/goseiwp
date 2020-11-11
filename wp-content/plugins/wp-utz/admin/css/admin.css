@@ -1,0 +1,33 @@
+.wp-utz-hide {
+	display: none !important;
+}
+
+#wp-admin-bar-wp-utz .dashicons:before {
+	top: 2px;
+}
+
+/*
+ * Settings
+ */
+.wp-utz.settings th {
+    display: block;
+    width: 100%;
+    margin: 0 0 5px 0;
+    padding: 0;
+}
+
+.wp-utz.settings td {
+	display: block;
+    line-height: inherit;
+    padding: 0;
+    margin: 0 0 15px 0;
+    clear: both;
+}
+
+.wp-utz.settings input[type="text"] {
+	width: 100%;
+}
+
+.wp-utz.settings .description {
+	font-size: .75em;
+}
